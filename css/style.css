@@ -67,6 +67,7 @@
 
 a:hover {
   color: #ff9a43;
+  text-decoration: none;
 }
 
 .box-categoria:hover {
