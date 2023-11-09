@@ -188,6 +188,8 @@ a:hover {
 .card {
   width: 260px;
   height: 260px;
+  border-radius: 10px;
+  border: none;
 }
 
 .card img {
@@ -231,4 +233,30 @@ a:hover {
   margin-top: 100px;
   gap: 10px;
   color: #fff;
+}
+
+.titulo-card {
+  margin-top: 100px;
+  padding-left: 390px;
+  width: fit-content;
+  font-size: 30px;
+  font-weight: 800;
+  color: #1e1e1e;
+  margin-bottom: 10px;
+}
+
+.subtitulo-card {
+  padding-left: 390px;
+  width: fit-content;
+  font-size: 20px;
+  font-weight: 400;
+  color: #646464;
+  margin-bottom: 32px;
+}
+
+.infos-card {
+  font-size: 14px;
+  font-weight: 400;
+  color: #4e4e4e;
+  margin-top: 4px;
 }
